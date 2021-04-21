@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiddlerCoreDemo", "FiddlerCoreDemo\FiddlerCoreDemo.csproj", "{3EB99098-57B1-4B5E-B0C2-255AA3802AEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EB99098-57B1-4B5E-B0C2-255AA3802AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EB99098-57B1-4B5E-B0C2-255AA3802AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EB99098-57B1-4B5E-B0C2-255AA3802AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EB99098-57B1-4B5E-B0C2-255AA3802AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EB5FEFF-0C4A-45E3-A480-AA325EA9722C}
+	EndGlobalSection
+EndGlobal
